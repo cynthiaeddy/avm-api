@@ -7,3 +7,5 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Animal.create(name: 'cat', breadbox: true, alive: true, extinct: false, mammal: true, amphibian: false, arms: false, legs: true, fly:false, livesInWater:false, fur:true, famous:false, male: true, actor: false, athelete: false, musician: false, politician: false, singer: false, awardWinner: false, ageAbove40: false)
+
+Animal.create(name: 'winehouse', breadbox: true, alive: false, extinct: false, mammal: true, amphibian: false, arms: true, legs: true, fly:false, livesInWater:false, fur:false, famous:true, male: false, actor: false, athelete: false, musician: true, politician: false, singer: true, awardWinner: true, ageAbove40: false)
